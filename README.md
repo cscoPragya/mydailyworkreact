@@ -1,7 +1,6 @@
-# mydailyworkreact
 # React Website Project
 
-A React-based web application developed as part of a project assignment given by [Company/Team Name].
+A React-based web application developed as part of a project assignment given by mydailywork.
 
 ## Features
 
